@@ -1,0 +1,25 @@
+body{
+    font-family: sans-serif;
+    background-color: lightgray;
+}
+.container{
+    text-align: center;
+    max-width: 350px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 5px;
+}
+#main{
+    color: rgb(66, 66, 202);
+}
+button{
+    background-color: brown;
+    margin-top: 15px;
+}
+span{
+    font-weight: bold;
+}
+#par{
+    margin-top: 25px;
+    font-weight: bold;
+}
